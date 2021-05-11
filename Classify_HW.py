@@ -4,7 +4,7 @@ import zipfile
 
 
 src_dirname = "C:\\Users\\Yulin\\Downloads"
-des_dirname = "C:\\Users\\Yulin\\Desktop\\工程圖學109-1"
+des_dirname = "C:\\Users\\Yulin\\Desktop\\工程圖學109-2"
 
 hw = input("Input the HW file:")
 hw_dir = des_dirname + "\\" + hw
